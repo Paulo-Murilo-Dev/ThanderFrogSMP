@@ -1,2 +1,10 @@
 logs/
 plugins/
+crash-reports/
+session.lock
+bkps/
+bkp*/
+bkp_local/
+*.log
+*.tmp
+*.lck
