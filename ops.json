@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "23556364-1ea0-3bda-b418-a9b13ecd86a6",
+    "name": "dvd_42",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
